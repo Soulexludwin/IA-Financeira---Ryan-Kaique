@@ -20,6 +20,7 @@ O assistente analisa volumes de vendas (GMV), comissões, custos de cashback, ti
 📁 Estrutura do RepositórioPlaintextassistente-virtual-ia/
 ├── data/                 # Arquivos CSV de entrada e dados para testes
 ├── docs/                 # Documentação do projeto e relatórios gerados
+├── outputs/              # Registro dos resultados da IA
 ├── prompts/              # System Prompts e instruções da IA
 │   └── prompt.py
 |   └── chatbot.py
