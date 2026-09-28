@@ -1,0 +1,9 @@
+streamlit
+google-genai
+python-dotenv
+pandas
+gspread
+google-auth
+tabulate
+oauth2client
+gspread
